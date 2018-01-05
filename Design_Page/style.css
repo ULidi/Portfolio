@@ -19,13 +19,13 @@ html, body {
 }
 
 h1 {
-    font-size: 3rem; /* 1rem is equal to the html font-size, which default value is 16px */
+    font-size: 3rem; 
     color:#fff;
     position: absolute;
     left: 50%;
     top: 20%;
     transform: translateX(-50%);
-    white-space: nowrap; /* so that the other part won't go to the next line when the onther being hovered on */
+    white-space: nowrap; 
 }
 
 .button {
